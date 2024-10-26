@@ -2,7 +2,8 @@
 <h3 align="center">Software Engineer in the Making</h3>
 My name is Aadil Qureshi and I am Sophomore at Florida International University doing a Bachelors of Arts in Computer Science! I am currently navigating the world of Computer Science (FullStack Development) and aspiring to be a Software Engineer! 
 
-- 🔭 I’m currently working on a game called Samosa Selector that is based on an incremental game called Cookie Clicker. The goal of the game is to produce as many cookies by clicking on the Big Cookie as you can. 
+- 🔭 I’m currently working on a React Application called On My Grind that is inspired by Wordle where you memorize coffee drink recipes and quiz yourself on a random real Starbucks drink's temperature, flavor, milk type, and blendedness.
+- 🔭 I'm also currently working in a team of twelve on a project called CashCore which is a comprehensive finance advisor Web Application that focuses on four key areas to help users manage their finances effectively: budgeting accounts, stocks, loan payments, and receipt/report archiving.
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on any FullStack Projects
 - 😄 Pronouns: He/Him
