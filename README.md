@@ -3,7 +3,7 @@
 My name is Aadil Qureshi and I am Sophomore at Florida International University doing a Bachelors of Arts in Computer Science! I am currently navigating the world of Computer Science (FullStack Development) and aspiring to be a Software Engineer! 
 
 - 🔭 As right now, I am developing "CineMatch," which is a a comprehensive full-stack movie recommendation platform that helps users discover films based on their preferences. The application uses React/Vite styled with Tailwind CSS for the frontend and for the backend, It is built using Express.js along the TMDB API along with a secure API integration with TMDB services.
-- 🌱 I’m currently learning React, Express
+- 🌱 I’m currently learning React, TailWindCSS, and Express.js
 - 👯 I’m looking to collaborate on any FullStack Projects
 - 😄 Pronouns: He/Him
 
