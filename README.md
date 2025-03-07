@@ -2,9 +2,8 @@
 <h3 align="center">Software Engineer in the Making</h3>
 My name is Aadil Qureshi and I am Sophomore at Florida International University doing a Bachelors of Arts in Computer Science! I am currently navigating the world of Computer Science (FullStack Development) and aspiring to be a Software Engineer! 
 
-- 🔭 I’m currently working on a React Application called On My Grind that is inspired by Wordle where you memorize coffee drink recipes and quiz yourself on a random real Starbucks drink's temperature, flavor, milk type, and blendedness.
-- 🔭 I'm also currently working in a team of twelve on a project called CashCore which is a comprehensive finance advisor Web Application that focuses on four key areas to help users manage their finances effectively: budgeting accounts, stocks, loan payments, and receipt/report archiving.
-- 🌱 I’m currently learning React
+- 🔭 As right now, I am developing "CineMatch," which is a a comprehensive full-stack movie recommendation platform that helps users discover films based on their preferences. The application uses React/Vite styled with Tailwind CSS for the frontend and for the backend, It is built using Express.js along the TMDB API along with a secure API integration with TMDB services.
+- 🌱 I’m currently learning React, Express
 - 👯 I’m looking to collaborate on any FullStack Projects
 - 😄 Pronouns: He/Him
 
