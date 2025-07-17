@@ -3,7 +3,7 @@
 My name is Aadil Qureshi and I am a rising Junior at Florida International University doing a Bachelors of Arts in Computer Science! I am currently navigating the world of Computer Science (FullStack Development) and aspiring to be a Software Engineer! 
 
 - 🔭 As right now, I am developing an iOS weather app called CloudCast that shows the forecast for a certain location.
-- 🌱 I’m currently learning Full-stack Web dev and iOS development
+- 🌱 I’m currently learning Full-stack Web dev, iOS development, and Machine Learning
 - 👯 I’m looking to collaborate on any FullStack Projects
 - 😄 Pronouns: He/Him
 
