@@ -2,8 +2,8 @@
 <h3 align="center">Software Engineer in the Making</h3>
 My name is Aadil Qureshi and I am a Junior at Florida International University doing a Bachelors of Arts in Computer Science! I am currently navigating the world of Computer Science (FullStack Development) and aspiring to be a Software Engineer! 
 
-- 🔭 As right now, I am developing an URL-Shortener that will take in a long URL address and create a much shorter, unique link that can redirect to same URL. The Tech stack that I am using for the project is Python, FastAPI, PostgreSQL, Redis, and Docker. 
-- 🌱 I’m currently learning Full-stack Web dev along with Devops
+- 🔭 As right now, I am building a Note-taking App with a simple UI that will allow end-users to Create new notes, update new notes, read new notes, and lastly delete new notes. The Tech stack that I am using for this project will be React, TypeScript, Express, mySQL, AWS, Docker, and Kubernetes. 
+- 🌱 I’m currently learning Full-stack Web dev along with different Devop concepts
 - 👯 I’m looking to collaborate on any FullStack Projects
 - 😄 Pronouns: He/Him
 
